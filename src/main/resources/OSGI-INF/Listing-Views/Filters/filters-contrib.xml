@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component
+	name="org.athento.nuxeo.athento-nx-removed-personal-space.filters"
+	version="1.0.0">
+
+	<require>org.nuxeo.ecm.platform.userworkspace.actions</require>
+	<extension target="org.nuxeo.ecm.platform.actions.ActionService"
+		point="actions">
+		<action id="SHOW_PERSONAL_WORKSPACE" enabled="false" />
+	</extension>
+
+</component>

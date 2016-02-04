@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Require-Bundle: org.nuxeo.runtime
+Bundle-Vendor: Athento
+Bundle-Version: 1.0.0
+Bundle-Name: Athento NX Removed Personal Space
+Nuxeo-Component: OSGI-INF/Listing-Views/Filters/filters-contrib.xml
+Bundle-ManifestVersion: 2
+Created-By: Athento
+Bundle-SymbolicName: athento-nx-removed-personal-space
+
